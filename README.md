@@ -44,7 +44,7 @@ conventional and time-series strategies .
 analysis and switches the focus of previous research on momentum premium from the holding 
 period to the analysis of the transition processes.
 
-- **Section 4**: Explaining the Momentum Effect
+- **Section 4**: Explaining the Momentum Effect, [UM.s4.ipynb](./UM.s4.ipynb)
 
 	The section progresses to the stock level by dividing momentum deciles into portfolios 
 based on fundamental and technical characteristics and then applying the rolling 
