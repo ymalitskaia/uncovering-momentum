@@ -2,7 +2,7 @@
 
 This repository encompasses the notebooks for replicating the results of the systematic multi-step 
 approach aiming to explain the source of the momentum premium, a long-term ongoing challenge in 
-the financial economics domain. To summarize, the study identified the 2010-2019 momentum effect 
+the financial economics domain. To summarize, the study identified the 2011-2019 momentum effect 
 as the sampling of high volatility growth stocks.
 
 The first version of the approach is described in the 
@@ -17,7 +17,7 @@ Science article
 “[Uncovering Momentum with Rolling Intertemporal Analysis](https://towardsdatascience.com/uncovering-momentum-effect-with-rolling-intertemporal-analysis-36eedc1d8a96)”.
 The study was further consolidated and extended as discussed at the [SIAM FM'21](https://www.siam.org/conferences/cm/conference/fm21)
  conference talk available in this repository, 
-[UM.SIAM21.06.04.21.pdf](./UM.SIAM21.06.04.21..pdf).
+[UM.SIAM21.06.04.21.pdf](./UM.SIAM21.06.04.21.pdf).
 
 ### Content
 
