@@ -47,7 +47,7 @@ period to the analysis of the transition processes.
 based on fundamental and technical characteristics and then applying the rolling 
 event-oriented intertemporal analysis for identifying anomalies contributing to the 
 premium. The results transparently and completely explain the momentum premium for 
-2010-2019 as the sampling of high volatility growth stocks. 
+2011-2019 as the sampling of high volatility growth stocks. 
 
 ### Installation
 
